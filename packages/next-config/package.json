@@ -10,7 +10,7 @@
   "dependencies": {
     "@logtail/next": "^0.1.5",
     "@next/bundle-analyzer": "^15.0.2",
-    "@prisma/nextjs-monorepo-workaround-plugin": "^5.21.1",
+    "@prisma/nextjs-monorepo-workaround-plugin": "^6.1.0",
     "@sentry/nextjs": "^8.36.0",
     "@vercel/toolbar": "^0.1.24",
     "next-secure-headers": "^2.2.0"
